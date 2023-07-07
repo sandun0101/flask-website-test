@@ -19,6 +19,7 @@ JOBS = [
   'id': 3,
   'title': 'Data Engineer',
   'location': 'Remote',
+  'salary': '$ 1500000.00'
   }
 ]
 
